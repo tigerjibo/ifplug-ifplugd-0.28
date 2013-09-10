@@ -156,7 +156,7 @@
 /* #undef const */
 
 /* Define to rpl_malloc if the replacement function should be used. */
-#define malloc rpl_malloc
+/*#define malloc rpl_malloc */
 
 /* Define to `int' if <sys/types.h> does not define. */
 /* #undef pid_t */
